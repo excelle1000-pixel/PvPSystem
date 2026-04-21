@@ -1,0 +1,7 @@
+name: PvP-System
+version: '1.00'
+main: net.com.pvPSystem.PvPSystem
+api-version: '1.21'
+load: STARTUP
+authors: [ Heiven and Milizzo ]
+description: PvP Battle
