@@ -1,6 +1,6 @@
 name: PvP-System
 version: '1.00'
-main: net.com.pvPSystem.PvPSystem
+main: net.com.pvPSystem.Main
 api-version: '1.21'
 load: STARTUP
 authors: [ Heiven and Milizzo ]
