@@ -10,7 +10,7 @@ public final class Main extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        //Queue
+        //Queuek
         qm = new QueueManager();
         getCommand("queue").setExecutor(new QueueCommand(qm));
     }
